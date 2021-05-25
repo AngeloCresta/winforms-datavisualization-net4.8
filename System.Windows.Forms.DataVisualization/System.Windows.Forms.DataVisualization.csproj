@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1944C3B0-C641-419D-AE92-A96DD39B7C4F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>System.Windows.Forms.DataVisualization</RootNamespace>
+    <AssemblyName>System.Windows.Forms.DataVisualization</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <!-- Added to suppress MSBuild resource conditional compilation warning in tool-generated ChartWin SR.cs code. -->
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);MSB3042</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Annotation\AnnotationDesign.cs" />
+    <Compile Remove="Common\EditorNames.cs" />
+    <Compile Include="Annotation\AnnotationBase.cs" />
+    <Compile Include="Annotation\AnnotationCollection.cs" />
+    <Compile Include="Annotation\AnnotationDesign.cs" />
+    <Compile Include="Annotation\ArrowAnnotation.cs" />
+    <Compile Include="Annotation\CalloutAnnotation.cs" />
+    <Compile Include="Annotation\GroupAnnotation.cs" />
+    <Compile Include="Annotation\ImageAnnotation.cs" />
+    <Compile Include="Annotation\LineAnnotation.cs" />
+    <Compile Include="Annotation\PolygonAnnotation.cs" />
+    <Compile Include="Annotation\RectangleAnnotation.cs" />
+    <Compile Include="Annotation\TextAnnotation.cs" />
+    <Compile Include="Borders3D\Borders3D.cs" />
+    <Compile Include="Borders3D\EmbedBorder.cs" />
+    <Compile Include="Borders3D\EmbossBorder.cs" />
+    <Compile Include="ChartTypes\AreaChart.cs" />
+    <Compile Include="ChartTypes\BarChart.cs" />
+    <Compile Include="ChartTypes\BoxPlotChart.cs" />
+    <Compile Include="ChartTypes\BubbleChart.cs" />
+    <Compile Include="ChartTypes\ChartTypeRegistry.cs" />
+    <Compile Include="ChartTypes\ColumnChart.cs" />
+    <Compile Include="ChartTypes\DoughnutChart.cs" />
+    <Compile Include="ChartTypes\ErrorBarChart.cs" />
+    <Compile Include="ChartTypes\FastLineChart.cs" />
+    <Compile Include="ChartTypes\FastPointChart.cs" />
+    <Compile Include="ChartTypes\FunnelChart.cs" />
+    <Compile Include="ChartTypes\KagiChart.cs" />
+    <Compile Include="ChartTypes\LineChart.cs" />
+    <Compile Include="ChartTypes\PieChart.cs" />
+    <Compile Include="ChartTypes\PointAndFigureChart.cs" />
+    <Compile Include="ChartTypes\PointChart.cs" />
+    <Compile Include="ChartTypes\PolarChart.cs" />
+    <Compile Include="ChartTypes\RadarChart.cs" />
+    <Compile Include="ChartTypes\RangeChart.cs" />
+    <Compile Include="ChartTypes\RenkoChart.cs" />
+    <Compile Include="ChartTypes\StackedAreaChart.cs" />
+    <Compile Include="ChartTypes\StackedBarChart.cs" />
+    <Compile Include="ChartTypes\StackedColumnChart.cs" />
+    <Compile Include="ChartTypes\StepLineChart.cs" />
+    <Compile Include="ChartTypes\StockChart.cs" />
+    <Compile Include="ChartTypes\ThreeLineBreakChart.cs" />
+    <Compile Include="ChartWinControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\SR.cs" />
+    <Compile Include="Common\SRCategoryAttribute.cs" />
+    <Compile Include="Common\SRDescriptionAttribute.cs" />
+    <Compile Include="Converters\AnnotationConverters.cs" />
+    <Compile Include="Converters\AxesArrayConverter.cs" />
+    <Compile Include="Converters\AxisConverters.cs" />
+    <Compile Include="Converters\CustomAttributesConverters.cs" />
+    <Compile Include="Converters\DataManagerConverters.cs" />
+    <Compile Include="Converters\ElementPositionConverter.cs" />
+    <Compile Include="Converters\LegendConverters.cs" />
+    <Compile Include="DataManager\DataManager.cs" />
+    <Compile Include="DataManager\DataPoint.cs" />
+    <Compile Include="DataManager\DataSeries.cs" />
+    <Compile Include="Design\AnnotationCollectionEditor.cs" />
+    <Compile Include="Design\AreaDesigner.cs" />
+    <Compile Include="Design\AxesArrayDesigner.cs" />
+    <Compile Include="Design\ColorPaletteEditor.cs" />
+    <Compile Include="Design\DataManagerEditors.cs" />
+    <Compile Include="Design\FlagsEnumEditor.cs" />
+    <Compile Include="Design\FxCopExclusionsByDesign.cs" />
+    <Compile Include="Design\GradientEditor.cs" />
+    <Compile Include="Design\HatchStyleEditor.cs" />
+    <Compile Include="Design\ImageMapDesign.cs" />
+    <Compile Include="Design\KeywordEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\KeywordsStringEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\LegendDesigner.cs" />
+    <Compile Include="Design\MarkerStyleEditor.cs" />
+    <Compile Include="Design\WinChartDesigner.cs" />
+    <Compile Include="Design\WinChartDesignerSerializer.cs" />
+    <Compile Include="Formulas\FormulaHelpers.cs" />
+    <Compile Include="Formulas\FormulaRegistry.cs" />
+    <Compile Include="Formulas\GeneralFormulas.cs" />
+    <Compile Include="Formulas\Oscillator.cs" />
+    <Compile Include="Formulas\PriceIndicators.cs" />
+    <Compile Include="Formulas\StatisticalAnalysis.cs" />
+    <Compile Include="Formulas\TechGeneralIndicators.cs" />
+    <Compile Include="Formulas\TimeSeriesAndForecasting.cs" />
+    <Compile Include="Formulas\VolumeIndicator.cs" />
+    <Compile Include="FxCopExclusionsByDesign.cs" />
+    <Compile Include="General\Axis.cs" />
+    <Compile Include="General\AxisLabels.cs" />
+    <Compile Include="General\AxisScale.cs" />
+    <Compile Include="General\AxisScaleBreaks.cs" />
+    <Compile Include="General\AxisScaleSegments.cs" />
+    <Compile Include="General\AxisScrollBar.cs" />
+    <Compile Include="General\AxisScrollZoom.cs" />
+    <Compile Include="General\BaseClasses.cs" />
+    <Compile Include="General\BaseCollections.cs" />
+    <Compile Include="General\BaseInterfaces.cs" />
+    <Compile Include="General\Chart.cs" />
+    <Compile Include="General\ChartArea.cs" />
+    <Compile Include="General\ChartArea3D.cs" />
+    <Compile Include="General\ChartAreaAxes.cs" />
+    <Compile Include="General\ChartAreaCircular.cs" />
+    <Compile Include="General\ChartAreaCollection.cs" />
+    <Compile Include="General\ChartAreaCursor.cs" />
+    <Compile Include="General\ChartElement.cs" />
+    <Compile Include="General\ChartGraphics.cs" />
+    <Compile Include="General\ChartGraphics3D.cs" />
+    <Compile Include="General\ChartRenderingEngine.cs" />
+    <Compile Include="General\ChartSerializer.cs" />
+    <Compile Include="General\CommonElements.cs" />
+    <Compile Include="General\Constants.cs" />
+    <Compile Include="General\DataManipulator.cs" />
+    <Compile Include="General\FormulaData.cs" />
+    <Compile Include="General\GdiGraphics.cs" />
+    <Compile Include="General\GridTickMarks.cs" />
+    <Compile Include="General\IChartRenderingEngine.cs" />
+    <Compile Include="General\Label.cs" />
+    <Compile Include="General\Legend.cs" />
+    <Compile Include="General\LegendColumns.cs" />
+    <Compile Include="General\Matrix3D.cs" />
+    <Compile Include="General\NamedImageCollection.cs" />
+    <Compile Include="General\Selection.cs" />
+    <Compile Include="General\SmartLabels.cs" />
+    <Compile Include="General\Statistics.cs" />
+    <Compile Include="General\StripLine.cs" />
+    <Compile Include="General\SubAxis.cs" />
+    <Compile Include="General\Title.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\InternalsVisibleTo.cs" />
+    <Compile Include="Utilities\AccessibleObject.cs" />
+    <Compile Include="Utilities\ColorPalette.cs" />
+    <Compile Include="Utilities\CustomAttributesRegistry.cs" />
+    <Compile Include="Utilities\ElementPosition.cs" />
+    <Compile Include="Utilities\ImageLoader.cs" />
+    <Compile Include="Utilities\KeywordsRegistry.cs" />
+    <Compile Include="Utilities\Printing.cs" />
+    <Compile Include="Utilities\ValueConverter.cs" />
+    <Compile Include="Utilities\XmlSerializer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup Label="Embedded Resources">
+    <EmbeddedResource Update="Common\SR.resx">
+      <LogicalName>System.Windows.Forms.DataVisualization.Charting.SR.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SR.resx">
+      <GenerateSource>true</GenerateSource>
+      <Namespace>System.Windows.Forms.DataVisualization.Charting</Namespace>
+      <!-- I think you want System here -->
+    </EmbeddedResource>
+    <EmbeddedResource Include="Common\SR.resx">
+      <DependentUpon>SR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Design.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ChartControl.bmp" />
+    <Content Include="Resources\ChartControl.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\xlf\SR.cs.xlf" />
+    <None Include="Common\xlf\SR.de.xlf" />
+    <None Include="Common\xlf\SR.es.xlf" />
+    <None Include="Common\xlf\SR.fr.xlf" />
+    <None Include="Common\xlf\SR.it.xlf" />
+    <None Include="Common\xlf\SR.ja.xlf" />
+    <None Include="Common\xlf\SR.ko.xlf" />
+    <None Include="Common\xlf\SR.pl.xlf" />
+    <None Include="Common\xlf\SR.pt-BR.xlf" />
+    <None Include="Common\xlf\SR.ru.xlf" />
+    <None Include="Common\xlf\SR.tr.xlf" />
+    <None Include="Common\xlf\SR.zh-Hans.xlf" />
+    <None Include="Common\xlf\SR.zh-Hant.xlf" />
+    <None Include="Resources\xlf\Design.cs.xlf" />
+    <None Include="Resources\xlf\Design.de.xlf" />
+    <None Include="Resources\xlf\Design.es.xlf" />
+    <None Include="Resources\xlf\Design.fr.xlf" />
+    <None Include="Resources\xlf\Design.it.xlf" />
+    <None Include="Resources\xlf\Design.ja.xlf" />
+    <None Include="Resources\xlf\Design.ko.xlf" />
+    <None Include="Resources\xlf\Design.pl.xlf" />
+    <None Include="Resources\xlf\Design.pt-BR.xlf" />
+    <None Include="Resources\xlf\Design.ru.xlf" />
+    <None Include="Resources\xlf\Design.tr.xlf" />
+    <None Include="Resources\xlf\Design.zh-Hans.xlf" />
+    <None Include="Resources\xlf\Design.zh-Hant.xlf" />
+    <None Include="xlf\SR.cs.xlf" />
+    <None Include="xlf\SR.de.xlf" />
+    <None Include="xlf\SR.es.xlf" />
+    <None Include="xlf\SR.fr.xlf" />
+    <None Include="xlf\SR.it.xlf" />
+    <None Include="xlf\SR.ja.xlf" />
+    <None Include="xlf\SR.ko.xlf" />
+    <None Include="xlf\SR.pl.xlf" />
+    <None Include="xlf\SR.pt-BR.xlf" />
+    <None Include="xlf\SR.ru.xlf" />
+    <None Include="xlf\SR.tr.xlf" />
+    <None Include="xlf\SR.zh-Hans.xlf" />
+    <None Include="xlf\SR.zh-Hant.xlf" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

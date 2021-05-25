@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSamples", ".", "{062B7224-CAFB-4860-9ED8-61281CD1F599}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/WebSamples"
+		Debug.AspNetCompiler.PhysicalPath = "..\WebSamples\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSamples\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSamples"
+		Release.AspNetCompiler.PhysicalPath = "..\WebSamples\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSamples\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "23747"
+		SlnRelativePath = "..\WebSamples\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062B7224-CAFB-4860-9ED8-61281CD1F599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062B7224-CAFB-4860-9ED8-61281CD1F599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE52EB77-EEE1-453F-9125-90955C4E8121}
+	EndGlobalSection
+EndGlobal

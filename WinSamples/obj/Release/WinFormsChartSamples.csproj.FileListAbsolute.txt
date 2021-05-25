@@ -1,0 +1,420 @@
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.csprojAssemblyReference.cache
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AntiAliasingSample.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Borders.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingGaps3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingPerspectives.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationAnchoring.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationEditing.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationPositionChanging.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationSmartLabels.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationStyles.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FreeDrawAnnotation.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingAnnotations.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PositionChangedEvent.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisTitle.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisMargins.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisScale.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisCrossing.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.GridLinesTicks.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.HighlightDateRange.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.InterlacedStrips.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LogarithmicScale.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleYAxis.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PrimarySecondaryAxis.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ScaleBreaks.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.StripIntervals.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.StripLineTitle.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.StripLines.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AligningChartingAreas.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AlignmentTypes.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Appearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartArea3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartAreaPosition.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartInDataPoint.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartInDoughnut.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesAndChartAreas.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ZOrder.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomDrawnTitles.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PaintingDataTable.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PrePostPaint.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AddingSeries.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.HidingSeries.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.IndexedX.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PointWidthAndDepth.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SecondaryAxis.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesZOrder.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingLabels.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingMarkers.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorPositionChanged.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ScrollBarEvents.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ViewChangedEvent.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorAxis.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorInterval.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.KeyboardZoomScroll.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultiChartAreaCursor.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorAutoZoomScroll.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DrillDown.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.InteractivePie.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PointsDragging.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Dialog.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Selection.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomToolTips.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingToolTips.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BasicZooming.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.KeyboardScrolling.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ScrollBarAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SmallScrollSize.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ZoomingExtents.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AutoFitAxesLabels.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisLabelsInterval.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisVarLabelsInterval.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomLabels.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.EquallySizedAutoFont.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsFormatting.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsKeywords.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsNextToAxis.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsTextStyle.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultilineLabels.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SmartLabels.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCellColumns.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCellSpan.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCells.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCustomItems.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCustomPosition.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendFont.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendInteractive.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendStylePosition.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendTitle.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleLegends.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Palettes.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomPrinting.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipagePrinting.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PrinterFriendlyCharts.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PrintPreview.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PrintingSettings.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SavingAndCopyingImages.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BasicSerialization.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Templates.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartTitle.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleTitles.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.TitleCustomPosition.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AreaChart3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AreaChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BarColumn3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Cylinder3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BarColumnChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.StackedChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PolarChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RadarChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CombinatorialChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ParetoChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BoxPlotChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.HistogramChart.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ErrorBarChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FinancialChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LineCurves3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FastLineChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LineCurvesChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PieChart3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PieCollectedData.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PieCollected.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BubbleChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PointChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FunnelChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PyramidChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeBar3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Range3D.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeBarChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeColumnChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.KagiChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PointAndFigureChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RenkoChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ThreeLineBreakChartType.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BasicPopulatingData.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DynamicChartCreation.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ApplicationEntryPoint.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DatabaseBindingXY.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DatabaseBindingY.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DataBindCrosstab.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DataBindTable.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DataSourceBinding.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ExtendedDataBinding.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesByRows.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.AligningAxisLabel.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MergingValues.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SplittingValues.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DataGridBinding.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ExportingInXML.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.BandPassFilter.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterDateRange.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterTopN.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterWithCustomCriteria.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterYValuesRange.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FindByMaxMinValues.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FindByValue.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingByAxisLabel.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingFormulas.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingStockData.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesAlignment.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomSortingOrder.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Sorting.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.SpikeRemoval.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ANOVA.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CovarianceAndCorrelation.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DescriptiveStatistics.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Distributions.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.FTest.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.TTest.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ArrayBinding.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.CSVDataBinding.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DatabaseDataview.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ExcelData.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.XMLData.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.DymamicPointAdd.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.EmptyPointAppearance.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.InsertingEmptyPoints.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.MovingAverages.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.PriceIndicators.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeIndicators.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.TechnicalPriceIndicators.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.Forecasting.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.VolumeIndicators.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.ManyYBubble.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RealTimeSample.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RealTimeData.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.RetrievingAssigningDates.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.TimeScale.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendInteractive.af.resources
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\af\WinFormsChartSamples.resources.dll
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.csproj.CopyComplete
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\WinFormsChartSamples.exe.config
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.exe
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\obj\Release\WinFormsChartSamples.pdb
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\WinFormsChartSamples.exe
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\WinFormsChartSamples.pdb
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\af\WinFormsChartSamples.resources.dll
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\System.Windows.Forms.DataVisualization.dll
+C:\Users\Angelo\Desktop\FW4.8\WinSamples\System.Windows.Forms.DataVisualization.pdb
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.csprojAssemblyReference.cache
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AntiAliasingSample.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Borders.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingGaps3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingPerspectives.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationAnchoring.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationEditing.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationPositionChanging.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationSmartLabels.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AnnotationStyles.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FreeDrawAnnotation.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingAnnotations.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PositionChangedEvent.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisTitle.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisMargins.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisScale.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisCrossing.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.GridLinesTicks.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.HighlightDateRange.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.InterlacedStrips.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LogarithmicScale.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleYAxis.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PrimarySecondaryAxis.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ScaleBreaks.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.StripIntervals.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.StripLineTitle.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.StripLines.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AligningChartingAreas.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AlignmentTypes.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Appearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartArea3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartAreaPosition.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartInDataPoint.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartInDoughnut.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesAndChartAreas.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ZOrder.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomDrawnTitles.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PaintingDataTable.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PrePostPaint.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AddingSeries.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.HidingSeries.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.IndexedX.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PointWidthAndDepth.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SecondaryAxis.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesZOrder.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingLabels.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingMarkers.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorPositionChanged.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ScrollBarEvents.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ViewChangedEvent.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorAxis.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorInterval.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.KeyboardZoomScroll.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultiChartAreaCursor.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CursorAutoZoomScroll.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DrillDown.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.InteractivePie.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PointsDragging.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Dialog.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Selection.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomToolTips.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.UsingToolTips.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BasicZooming.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.KeyboardScrolling.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ScrollBarAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SmallScrollSize.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ZoomingExtents.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AutoFitAxesLabels.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisLabelsInterval.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AxisVarLabelsInterval.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomLabels.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.EquallySizedAutoFont.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsFormatting.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsKeywords.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsNextToAxis.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LabelsTextStyle.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultilineLabels.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SmartLabels.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCellColumns.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCellSpan.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCells.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCustomItems.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendCustomPosition.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendFont.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendInteractive.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendStylePosition.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendTitle.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleLegendsWithCheckBox.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleLegends.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Palettes.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomPrinting.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipagePrinting.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PrinterFriendlyCharts.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PrintPreview.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PrintingSettings.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SavingAndCopyingImages.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BasicSerialization.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Templates.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ChartTitle.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MultipleTitles.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.TitleCustomPosition.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AreaChart3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AreaChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BarColumn3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Cylinder3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BarColumnChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.StackedChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PolarChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RadarChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CombinatorialChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ParetoChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BoxPlotChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.HistogramChart.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ErrorBarChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FinancialChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LineCurves3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FastLineChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LineCurvesChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PieChart3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PieCollectedData.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PieCollected.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BubbleChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PointChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FunnelChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PyramidChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeBar3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Range3D.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeBarChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeColumnChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.KagiChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PointAndFigureChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RenkoChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ThreeLineBreakChartType.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BasicPopulatingData.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DynamicChartCreation.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ApplicationEntryPoint.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.MainForm.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabPageButton.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\System.Windows.Forms.DataVisualization.Charting.Utilities.SampleMain.VerticalTabControl.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DatabaseBindingXY.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DatabaseBindingY.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DataBindCrosstab.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DataBindTable.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DataSourceBinding.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ExtendedDataBinding.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesByRows.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.AligningAxisLabel.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MergingValues.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SplittingValues.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DataGridBinding.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ExportingInXML.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.BandPassFilter.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterDateRange.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterTopN.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterWithCustomCriteria.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FilterYValuesRange.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FindByMaxMinValues.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FindByValue.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingByAxisLabel.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingFormulas.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.GroupingStockData.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SeriesAlignment.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CustomSortingOrder.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Sorting.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.SpikeRemoval.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ANOVA.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CovarianceAndCorrelation.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DescriptiveStatistics.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Distributions.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.FTest.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.TTest.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ArrayBinding.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.CSVDataBinding.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DatabaseDataview.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ExcelData.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.XMLData.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.DymamicPointAdd.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.EmptyPointAppearance.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.InsertingEmptyPoints.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.MovingAverages.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.PriceIndicators.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RangeIndicators.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.TechnicalPriceIndicators.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.Forecasting.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.VolumeIndicators.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.ManyYBubble.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RealTimeSample.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RealTimeData.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.RetrievingAssigningDates.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.TimeScale.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.LegendInteractive.af.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.csproj.GenerateResource.cache
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.csproj.CoreCompileInputs.cache
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\af\WinFormsChartSamples.resources.dll
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.csproj.CopyComplete
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\WinFormsChartSamples.exe.config
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.exe
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\obj\Release\WinFormsChartSamples.pdb
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\WinFormsChartSamples.exe
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\WinFormsChartSamples.pdb
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\af\WinFormsChartSamples.resources.dll
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\System.Windows.Forms.DataVisualization.dll
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\WinSamples\System.Windows.Forms.DataVisualization.pdb

@@ -1,0 +1,9 @@
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\bin\System.Windows.Forms.DataVisualization.dll
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\bin\System.Windows.Forms.DataVisualization.pdb
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.csprojAssemblyReference.cache
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Web.UI.DataVisualization.Charting.SR.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.Resources.Design.resources
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.csproj.GenerateResource.cache
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.csproj.CoreCompileInputs.cache
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.dll
+E:\Development\Microsoft Chart\winforms-datavisualization-main 4.8\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.pdb

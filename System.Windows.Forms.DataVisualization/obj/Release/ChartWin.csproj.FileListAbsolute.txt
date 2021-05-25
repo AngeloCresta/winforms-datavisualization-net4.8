@@ -1,0 +1,8 @@
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\bin\System.Windows.Forms.DataVisualization.dll
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\bin\System.Windows.Forms.DataVisualization.pdb
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\obj\Release\ChartWin.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.pdb
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\obj\Release\System.Web.UI.DataVisualization.Charting.SR.resources
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\obj\Release\System.Windows.Forms.DataVisualization.Resources.Design.resources
+C:\Users\Angelo\Desktop\FW4.8\src\System.Windows.Forms.DataVisualization\obj\Release\ChartWin.csproj.GenerateResource.cache
