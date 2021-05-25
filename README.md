@@ -78,9 +78,13 @@ The best way to learn about Chart Controls is by looking at the [Win Sample solu
 
 ![Chart Controls](sample-screenshot.png)
 
-With the sample project you can see every property and parameters in action (Web Sample):
+With the sample project you can see every property and parameters in action:
+
+Web Sample:
 
 ![Web Sample1](https://user-images.githubusercontent.com/12256319/119494153-46121680-bd61-11eb-93fa-fe0c0c50e16e.PNG)
+
+Win Sample:
 
 ![Win Sample1](https://user-images.githubusercontent.com/12256319/119494701-e405e100-bd61-11eb-9d37-67ecfde8a49d.PNG)
 
