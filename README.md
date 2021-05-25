@@ -1,19 +1,18 @@
-# winforms-datavisualization .Net 5
- Rought porting to .Net FrameWork 4.8 of [dotnet/winforms-datavisualization project](https://github.com/dotnet/winforms-datavisualization) and the sample solution as well. 
+# winforms-datavisualization .Net FrameWork 4.8
+ Rought (retro) porting to .Net FrameWork 4.8 of [dotnet/winforms-datavisualization project](https://github.com/dotnet/winforms-datavisualization) including Web and Win Sample solutions as well. 
  
 # Data Visualization
 This repository contains partial source code of the `System.Windows.Forms.DataVisualization` namespace that provides charting for WinForms. 
 Microsoft ported and open sourced those components to enable charting features for WinForms applications that are developed on .NET Core 3.
 
-I've made the porting to back to .Net FrameWork 4.8:
+I've made the porting back to .Net FrameWork 4.8:
 - updating references
 - updating project files
-- moving deprecated controls like ContextMenu, MenuItems to new ones (ContextMenuStrip, ToolStripMenuItems) and relative methods
-- ...
+- - ...
 
 Application Running FW 4.8:
 
-![ApplicationRunning](https://user-images.githubusercontent.com/12256319/115564835-2480c380-a2b9-11eb-9d32-879855f5f4c3.PNG)
+![ApplicationRunning](https://user-images.githubusercontent.com/12256319/119492775-c0da3200-bd5f-11eb-8c43-fcbe4c259120.PNG)
 
 
 
@@ -25,8 +24,6 @@ The [original port](https://github.com/dotnet/winforms-datavisualization) to .Ne
 and moving away from them was a bit tricky, now they're all actualized:
 ```xml
   <ItemGroup>
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Design" />
     <Reference Include="System.Drawing" />
@@ -36,8 +33,8 @@ and moving away from them was a bit tricky, now they're all actualized:
     <Reference Include="System.Xml" />
   </ItemGroup>
   ```
+  ![References 4.8](https://user-images.githubusercontent.com/12256319/119493149-2fb78b00-bd60-11eb-9330-0e07e2765b4e.PNG)
 
-In a future release, maybe the use of `System.Data.SqlClient` should be avoided ...
 
 ## CSProj
 The CSProj files were also modified according to the new target / Platform (Windows):
@@ -77,20 +74,29 @@ Ported Version (Relavant Portion):
 
     
 ## Getting started with Chart Controls
-The best way to learn about Chart Controls is by looking at the [sample solution](https://github.com/AngeloCresta/winforms-datavisualization-net5/tree/main/sample) where via interactive experience with the app you can learn about every chart type and every major feature. While modifying the control parameters and instantly seeing how that affects the look of the control, you can also get the generated C# or Visual Basic code to use in your apps.
+The best way to learn about Chart Controls is by looking at the [Win Sample solution](https://github.com/AngeloCresta/winforms-datavisualization-net4.8/tree/main/WinSamples) or [Web Sample solution](https://github.com/AngeloCresta/winforms-datavisualization-net4.8/tree/main/WebSamples)  where via interactive experience with the app you can learn about every chart type and every major feature. While modifying the control parameters and instantly seeing how that affects the look of the control, you can also get the generated C# or Visual Basic code to use in your apps.
 
 ![Chart Controls](sample-screenshot.png)
 
-With the sample project you can see every property and parameters in action:
+With the sample project you can see every property and parameters in action (Web Sample):
 
-![Sample1](https://user-images.githubusercontent.com/12256319/115695599-3cf8e880-a362-11eb-920f-c412780baa03.PNG)
+![Web Sample1](https://user-images.githubusercontent.com/12256319/119494153-46121680-bd61-11eb-93fa-fe0c0c50e16e.PNG)
+
+![Win Sample1](https://user-images.githubusercontent.com/12256319/119494701-e405e100-bd61-11eb-9d37-67ecfde8a49d.PNG)
+
 
 and then copy the relavant portion of the code (C# or VB.Net):
 
-![Sample2](https://user-images.githubusercontent.com/12256319/115695886-729dd180-a362-11eb-9662-3981e1072dd6.PNG)
+Web:
+
+![Web Sample2](https://user-images.githubusercontent.com/12256319/119494385-8c677580-bd61-11eb-9af3-f887a717ac6d.PNG)
+
+Win:
+
+![Win Sample2](https://user-images.githubusercontent.com/12256319/115695886-729dd180-a362-11eb-9662-3981e1072dd6.PNG)
 
 
 ## History
-8th April: Initial Porting to .Net 5
+25th May: Initial Porting to .Net FrameWork 4.8
 
 Hope this helps!
